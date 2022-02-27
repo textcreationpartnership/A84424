@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Corkes victorie, and Tyrones overthrow. Being a warranted relation of the great overthrow which the Earle of Corke gave to the rebels at foure severall times, which makes most of the rebels flye out of cities and townes, and keepe themselves in the woods. Also the driving away of the rebels out of the city of Armagh. With the copy of a letter sent from the Earle of Tyrone to Sir Iohn Burlacie one of the Lord chiefe justices in Ireland. All which newes was brought into London upon Munday the 13. of December by John Hodges one of the Irish posts.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84424</idno>
+            <idno type="STC">Wing E72</idno>
+            <idno type="STC">Thomason E180_20</idno>
+            <idno type="STC">ESTC R12706</idno>
+            <idno type="EEBO-CITATION">99859326</idno>
+            <idno type="PROQUEST">99859326</idno>
+            <idno type="VID">111400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111400)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Corkes victorie, and Tyrones overthrow. Being a warranted relation of the great overthrow which the Earle of Corke gave to the rebels at foure severall times, which makes most of the rebels flye out of cities and townes, and keepe themselves in the woods. Also the driving away of the rebels out of the city of Armagh. With the copy of a letter sent from the Earle of Tyrone to Sir Iohn Burlacie one of the Lord chiefe justices in Ireland. All which newes was brought into London upon Munday the 13. of December by John Hodges one of the Irish posts.</title>
+                  <author>O'Neill, Phelim, Sir, 1604?-1653.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cork, Richard Boyle, --  Earl of, 1566-1643.</term>
+               <term>O'Neill, Phelim, --  Sir, 1604?-1653.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111400:1"/>
+            <pb facs="tcp:111400:1" rendition="simple:additions"/>
+            <p>THE EARLE OF CORKES Victorie, AND TYRONES OVERTHROW.</p>
+            <p>Being a warranted Relation of the great Overthrow which the Earle of <hi>Corke</hi> gave to the Rebels at foure ſeverall times, which makes moſt of the Rebels flye out of Cities and Townes, and keepe themſelves in the Woods.</p>
+            <p>Alſo the driving away of the Rebels out of the City of <hi>Armagh.</hi>
+            </p>
+            <p>With the Copy of a Letter ſent from the Earle of <hi>Tyrone</hi> to Sir <hi>Iohn Burlacie</hi> one of the Lord chiefe Juſtices in <hi>Jreland.</hi>
+            </p>
+            <p>All which newes was brought into <hi>London</hi> upon Munday the 13. of <hi>December</hi> by <hi>John Hodges</hi> one of the <hi>Iriſh</hi> Poſts.</p>
+            <p>LONDON, Printed for <hi>John Greenſmith,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="historical_account">
+            <pb facs="tcp:111400:2"/>
+            <pb facs="tcp:111400:2"/>
+            <head>The Earle of <hi>Corkes</hi> Victory, AND <hi>Tyrones</hi> Overthrow.</head>
+            <p>REbellion is as the ſinne of witchcraft, and witches by the Law were not to be ſuffered to live, by which we may ga<g ref="char:EOLhyphen"/>ther, that the Rebels in <hi>Ireland</hi> are not to have the hope of mercy ſhowne unto them, but being ceazed upon to be put all to death, many out ra<g ref="char:EOLhyphen"/>ges have they committed, and many Chriſtia<g ref="char:EOLhyphen"/>nicall Proteſtant have they put to unſpeakeable torments which have beene heretofore preſented to the view of the whole world.</p>
+            <p>It hath been the Lord chiefe Juſtices requeſt to have ayd and aſſiſtance from <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which they have beene granted, to the ter<g ref="char:EOLhyphen"/>rour of their trecherous enemies.</p>
+            <p>The Lord <hi>Moore</hi> hath reſſiſted them very often, and ſometimes his forces have been over<g ref="char:EOLhyphen"/>throwne, but oftner hath he quelled the pride of the Rebels by juſt ſlaughter.</p>
+            <p>Alſo of late hath the Earle of <hi>Corke</hi> ſtood in the defence of our King and himſelfe, having an
+<pb facs="tcp:111400:3"/>
+Army conſiſting of ten thouſand men,</p>
+            <p>With which he marched unto the place ſome ſoure Miles diſtant from <hi>Dublin,</hi> where the <hi>Rebels</hi> Troopes lay watching for opportu<g ref="char:EOLhyphen"/>niry to beſiege the Cittie.</p>
+            <p>Many times before had he challenged them to a pictht Battell, but they never durſt.</p>
+            <p>Whereſore he unawares, with his companies fell upon them, who to reſiſt, the <hi>Rebels</hi> tried their beſt Skill, but after a Skirmiſh, the <hi>Rebels</hi> knowing how ſlenderly they were armed ſeem'd to retreate backe, but the forces of the Earle of <hi>Corke</hi> purſued them, and as they ſeem'd to runne away, ſlew, two Hundreth Forty Six of the <hi>Rebels.</hi>
+            </p>
+            <p>But the <hi>Rebels</hi> had the next day ayd &amp; aſſiſtance by the treacherous Earle of <hi>Tyrone,</hi> and then they ſeem'd to girt round the Armie of the Earle of Corke, but a Collonell vnder the command of the Earle of Corke, by his pollicy, broke their rankes.</p>
+            <p>And cut off at that preſent time, above five hundreth, which ſtrucke terror in the hearts of the <hi>Rebels,</hi> which the Earle of <hi>Macqu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere</hi> his company hearing, came to the reſcue of their Companies, but were valiantly repeld by the
+<pb facs="tcp:111400:3"/>
+Earle of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orke</hi> a certain<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> number of t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> beeing ſlaine, which is doubtfull.</p>
+            <p>Then did the Earle of <hi>Corke,</hi> march with his Companies toward the Cittie of <hi>Corke</hi> where he percoived the Companies of the Lord <hi>Muſkrey,</hi> burning up one of his chiefe Manner houſes.</p>
+            <p>Then did he march toward them, and ſlew one hundred and three-ſcore of them, the Lord himſelfe was not there preſent amongſt them.</p>
+            <p>Then came newes unto him, that <hi>Armagh</hi> was beſieged, which ſtayed his intended pur<g ref="char:EOLhyphen"/>poſe for to reſcue them, whom he found in great perplexity, but they viewing ayd comming to the Proteſtants, ſet fire on part of the City, and changed habits and Armes with them which they before in the City had ſlaine, and ſo paſſed the revenge, which otherwiſe had beene inflicted upon them.</p>
+            <p>To watch and ward <hi>Armagh</hi> did the Earle ſpare three hundred of his men, which three dayes after were encountered by
+<pb facs="tcp:111400:4"/>
+the ſame Rebels but the Proteſtants gave them ſuch an overthrow, that they had no cauſe to boaſt of Victory, yet are the Rebels in hope to obtaine forraigne ayd, and at this time doe keep themſelves in the Woods.</p>
+            <p>The Proteſtants alſo expect ayd from us, and then they doe not feare but to expell thoſe which went about to deſtroy them and their Religion.</p>
+            <p>But not withſtanding as yet they confeſſe, they owe recompence for ſafety firſt unto God, and then to the good Earle of <hi>Corke,</hi> who doth make their enemies to tremble.</p>
+            <p>This Earle of <hi>Corke</hi> was borne in <hi>Cent,</hi> and now is one of the wealthieſt Peeres in <hi>Ireland,</hi> and hath hither to proved himſelfe a true loyall Subject to King <hi>Charles</hi> our lawfull King and Governour, may daily more ſuch <hi>Corkes</hi> ariſe, that with ſwiftneſſe they may purſue the enemies of Religious Proteſtants.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:111400:4"/>
+            <head>The Copy of a Letter ſent from the Earle of <hi>Tyrone</hi> unto Sir <hi>Iohn Burlacie,</hi> one of the Lord chiefe Iu<g ref="char:EOLhyphen"/>ſtices in <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Sir <hi>Iohn,</hi>
+               </salute>
+            </opener>
+            <p>Yleld up vour Fort and doe not thinke for to withſtand our invincible power, leaſt that J ſtudy revenge, and you all being taken, ſuffer without quarter, but if the good will of a depoſed Governour may ſtirre you up to Juſtice, revolt ſpeedily and aſſiſt me, which am at this time in the County of <hi>Mo<g ref="char:EOLhyphen"/>nahan,</hi> accompanied with Troopes of loving and war like Souldiers, make uſe of my Coun<g ref="char:EOLhyphen"/>ſell, and be eternally happy.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
